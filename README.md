@@ -124,7 +124,7 @@ And Ta-Da! Now, if you go to the app, clicking on _either_ of the white rectangl
 add one more feature!
 
 ## Deliverables
-- When either `Child` component is clicked, it should change to its own background
+- When either `Child` component is clicked, it should change its own background
 color to a random color, and the other `Child` component should change to _that same_ color.
 
 Now, we could put some state in our `Child` component to keep track of its color.
